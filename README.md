@@ -251,4 +251,25 @@
 * **Product**
 <p><img src="http://i.imgur.com/Umk6mGj.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 
+## Snippet<img src="https://i.imgur.com/UXmVGLq.png" title="source: imgur.com" width="100" height="100" align="right"/>
+**만보기 리워드 앱**<br><br>
+`iPhone` `Swift 3.0` `iOS 9.0+` `Cocoapods`
+<p><a href="https://itunes.apple.com/kr/app/%EC%8A%A4%EB%8B%99%ED%95%8F/id1401497542?mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
+
+<details><summary>Dev experience</summary><p>
+  
+ * **iOS(Client)**
+  * Swift4.0 언어로 개발
+  * Cocoapods을 이용한 오픈소스들의 dependancy 관리
+  * MVC 디자인 패턴 사용
+  * Realm 로컬DB사용 
+  * Firebase Notification, Firebase Analytics 연동
+  * Realm, Alamofire, SwiftyJSON, Toucan등 12여개 오픈소스 사용
+  
+</p></details><br>
+
+* **Product**
+<p><img src="http://i.imgur.com/Umk6mGj.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
+
+
 [back to top](#readme)
