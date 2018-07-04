@@ -251,14 +251,16 @@
 
 ## Snippet<img src="https://i.imgur.com/UXmVGLq.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **만보기 리워드 앱**<br><br>
-`iPhone` `Swift 4.0` `iOS 10.0+` `Cocoapods` `MVC` `Cocoapods`
+`iPhone` `Swift 4.0` `iOS 10.0+` `Cocoapods` `MVC` `Cocoapods` `Django` `DjangoRestFramework` `Ansible` `EC2` `RDS` `ELB` `ROUTE53` `CloudFront` `S3` `...`
 <p><a href="https://itunes.apple.com/kr/app/%EC%8A%A4%EB%8B%99%ED%95%8F/id1401497542?mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
 
 <details><summary>Dev experience</summary><p>
   
  * **iOS(Client)**
-  * Firebase Notification, Firebase Analytics 연동
-  * Realm, Alamofire, SwiftyJSON, Toucan등 12여개 오픈소스 사용
+  * Alamofire, Moya (Network Abstaction Library) 사용
+  * JSONDecodable & Decoable 을 이용한 JSON Parsing 사용 
+  * Kakao, Facebook 로그인 API 및 Naver Blog Api 사용  
+  * Kingfisher, Crashlytics등 20여개 오픈소스 사용
   
 </p></details><br>
 
