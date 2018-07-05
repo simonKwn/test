@@ -239,8 +239,14 @@
 <details><summary>Dev experience</summary><p>
   
  * **iOS(Client)**
-    * Firebase Notification, Firebase Analytics 연동
-    * Realm, Alamofire, SwiftyJSON, Toucan등 12여개 오픈소스 사용
+    * 기존 소스 리펙토링
+    * 당첨현황 Flip 모듈 개발
+    * Facebook, iOS Contact API 사용하여 SNS 피쳐개발
+    * 캐시워치 (스마트밴드) SDK를 사용한 앱과 디바이스의 페어링 및 걸음수, 심박수, 수면 데이터등 각종 연동개발
+    * 캐시워치 각 데이터 저장을 위한 로컬DB Realm을 사용하여 개발 
+    * 캐시워치 각 그래프 UI 개발
+    * iOS 건강(Health) API를 사용하여 일, 주, 월 간 데이터 개발 (Read)
+    * 신규 및 리뉴얼 UI, 네트워크 통신 및 로컬 데이터베이스등의 각종기능 개발 
   
 </p></details><br>
 
