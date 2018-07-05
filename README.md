@@ -62,7 +62,7 @@
 # Products
 
 ## Snippet<img src="https://i.imgur.com/UXmVGLq.png" title="source: imgur.com" width="100" height="100" align="right"/>
-**만보기 리워드 앱**<br><br>
+**핫 플레이스들의 상점정보 네비게이션 앱**<br><br>
 `1인개발` `Swift 4.0` `iOS 10.0+` `Instruments` `Cocoapods` `MVC` `Cocoapods` `Django` `DjangoRestFramework` `Ansible` `EC2` `RDS` `ELB` `ROUTE53` `CloudFront` `S3` `...`
 <p><a href="https://itunes.apple.com/kr/app/%EC%8A%A4%EB%8B%99%ED%95%8F/id1401497542?mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
 
@@ -96,7 +96,7 @@
     * 캐시워치 각 데이터 저장을 위한 로컬DB Realm을 사용하여 개발 
     * 캐시워치 각 그래프 UI 개발
     * iOS 건강(Health) API를 사용하여 일, 주, 월 간 데이터 개발 (Read)
-    * 신규 및 리뉴얼 UI, 네트워크 통신 및 로컬 데이터베이스등의 각종기능 개발 
+    * 신규 및 리뉴얼 기능, 네트워크 통신 및 로컬 데이터베이스등의 각종기능 개발 
   
 </p></details><br>
 
