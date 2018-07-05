@@ -45,17 +45,18 @@
 
  * **iOS(Client)** - `Obj-C` `Swift(3, 4)` `Cocoapods` `Instruments` `Cocoapods` `...`
  
- * **Backend(REST API)** - Python / Django Framework(Django-rest-framework), Celery, RabbitMQ, flower, ...
+ * **Backend(REST API)** - `Python` `Django` `DjangoRestFramework` `Celery` `RabbitMQ` `flower` `...`
  
- * **Database** - PostgreSQL(+ Postgis, RDBMS), Firebase(BaaS, NoSQL), Realm(iOS localDB)
+ * **Database** - `PostgreSQL(+ Postgis)`, `Firebase(BaaS, NoSQL)` `Realm(iOS localDB)`
  
- * **Infra(AWS)** - Route53, EC2, RDS, S3, CloudFront, SES, SNS, CloudWatch, IAM
+ * **Infra(AWS)** - `Route53` `EC2` `RDS` `S3` `CloudFront` `SES` `SNS` `CloudWatch` `IAM`
  
- * **DevOps** - Fabric, Ansible
+ * **DevOps** - `Fabric` `Ansible`
  
- * **Etc** - Git, BitBucket, Markdown, Google Analystics, Firebase Analystics, Postman, Slack, Jira, Confluence, Fabric, ...
+ * **Etc** - `Git` `BitBucket` `Markdown` `GoogleAnalystics` `FirebaseAnalystics` `Postman` `Slack` `Jira` `Confluence`     
+             `Fabric` `...`
  
- * **Design** - Sketch3
+ * **Design** - `Sketch3`
 
 # Portfolio
 본인이 프로덕트 기획, 디자인, 클라이언트(iOS), REST API백앤드 및 AWS인프라를 담당하여 개발을 경험했던 네이티브 어플리케이션들입니다.(1인개발)
