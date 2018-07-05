@@ -61,12 +61,9 @@
  
 # Products 
 
-# Portfolio
-본인이 프로덕트 기획, 디자인, 클라이언트(iOS), REST API백앤드 및 AWS인프라를 담당하여 개발을 경험했던 네이티브 어플리케이션들입니다.(1인개발)
-
 ## Circleboard (서클보드)  <img src="http://i.imgur.com/My95GiO.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **Geofancing을 활용한 위치기반의 캠퍼스에서 이용하는 실시간 게시판 서비스(LBSNS)**<br><br>
-`서비스종료` `iPhone` `Obj-C` `iOS 8.0+` `Cocoapods` `Source Code` `MVC` `GoogleAnalytics` `DjangoFramework(+GeoDjango)` `Django Framework` `DjangoRestFramework` `Celery` `flower` `Swagger` `Git` `BitBucket` `AWS SDK(boto)` `Fabric` `Ansible` `...`
+`1인개발` `서비스종료` `Obj-C` `iOS 8.0+` `Cocoapods` `Source Code` `MVC` `GoogleAnalytics` `DjangoFramework(+GeoDjango)` `Django Framework` `DjangoRestFramework` `Celery` `flower` `Swagger` `Git` `BitBucket` `AWS SDK(boto)` `Fabric` `Ansible` `...`
  
 <details><summary>Features</summary><p>
 
@@ -133,7 +130,7 @@
 
 ## Artifica (아티피카)<img src="http://i.imgur.com/nx1hUwX.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **Deep Learning(convolutional neural network)을 이용한 아티스틱 필터 이미지 프로세싱 앱**<br><br>
-`서비스종료` `iPhone` `Obj-C` `iOS 8.0+` `Cocoapods` `Source Code`
+`1인개발` `서비스종료` `Obj-C` `iOS 8.0+` `Cocoapods` `Source Code` 
 
 <details><summary>Features</summary><p>
 
@@ -168,7 +165,7 @@
 
 ## Slushy (슬러쉬) <img src="http://i.imgur.com/M3Yx4Ze.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **iOS 로컬 이미지 프로세싱을 사용한 색상 및 스타일 필터 카메라 앱**<br><br>
-`서비스종료` `iPhone` `Obj-C` `iOS 8.0+` `Cocoapods`
+`1인개발` `서비스종료` `Obj-C` `iOS 8.0+` `Cocoapods`
 <p><a href="https://itunes.apple.com/us/app/slushy-make-your-photos-coloful/id1173315815?l=ko&ls=1&mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
 
 <details><summary>Features</summary><p>
@@ -193,7 +190,7 @@
 
 ## Chat with Firebase<img src="http://i.imgur.com/NIKhkJ3.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **구글의 새로운 백앤드 서비스인 Firebase(Baas)와 Swift의 학습경험을 위해 개발한 채팅앱**<br><br>
-`스토어 미출시` `iPhone` `Swift 3.0` `iOS 9.0+` `Cocoapods` `Source Code` 
+`스토어 미출시` `Swift 3.0` `iOS 9.0+` `Cocoapods` `Source Code` 
 
 <details><summary>Features</summary><p>
 
@@ -213,7 +210,7 @@
 
 ## 04마스터<img src="http://i.imgur.com/Fc2zLEq.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **전국 중장비 임대/렌탈 매칭용 모바일 전화번호부 앱**<br><br>
-`iPhone` `Swift 3.0` `iOS 8.0+` `Cocoapods` `Realm` `MVC`
+`Swift 3.0` `iOS 8.0+` `Cocoapods` `Realm` `MVC`
 <p><a href="https://itunes.apple.com/kr/app/공사마스터/id1172166428?mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
 
 <details><summary>Dev experience</summary><p>
@@ -232,7 +229,7 @@
 
 ## CASHWALK<img src="https://i.imgur.com/qn2ZDNN.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **만보기 리워드 앱**<br><br>
-`iPhone` `Swift 3.0` `iOS 9.0+` `Cocoapods` `Realm` `RealmBrowser` `Instruments` `MVC` `Fabric`
+`Swift 3.0` `iOS 9.0+` `Cocoapods` `Realm` `RealmBrowser` `Instruments` `MVC` `Fabric`
 <p><a href="https://itunes.apple.com/kr/app/%EC%BA%90%EC%8B%9C%EC%9B%8C%ED%81%AC-%EB%8F%88-%EB%B2%84%EB%8A%94-%EB%A7%8C%EB%B3%B4%EA%B8%B0/id1220307907?mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
 
 <details><summary>Dev experience</summary><p>
@@ -253,7 +250,7 @@
 
 ## Snippet<img src="https://i.imgur.com/UXmVGLq.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **만보기 리워드 앱**<br><br>
-`iPhone` `Swift 4.0` `iOS 10.0+` `Instruments` `Cocoapods` `MVC` `Cocoapods` `Django` `DjangoRestFramework` `Ansible` `EC2` `RDS` `ELB` `ROUTE53` `CloudFront` `S3` `...`
+`1인개발` `Swift 4.0` `iOS 10.0+` `Instruments` `Cocoapods` `MVC` `Cocoapods` `Django` `DjangoRestFramework` `Ansible` `EC2` `RDS` `ELB` `ROUTE53` `CloudFront` `S3` `...`
 <p><a href="https://itunes.apple.com/kr/app/%EC%8A%A4%EB%8B%99%ED%95%8F/id1401497542?mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
 
 <details><summary>Dev experience</summary><p>
