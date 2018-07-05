@@ -43,7 +43,7 @@
  
 # Tech Stack
 
- * **iOS(Client)** - Objective-C, Swift(3, 4), Cocoapods, Instruments, Cocoapods, ...
+ * **iOS(Client)** - `Obj-C` `Swift(3, 4)` `Cocoapods` `Instruments` `Cocoapods` `...`
  
  * **Backend(REST API)** - Python / Django Framework(Django-rest-framework), Celery, RabbitMQ, flower, ...
  
