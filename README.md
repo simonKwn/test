@@ -22,14 +22,20 @@
   * **Artifica**(2016.06 ~ 2016.08:개발완료, ~ 2016.08: 서비스 운영) - 프로덕트 기획, 디자인, 개발, 운영 
   * **Slushy**(2016.09~2016.10: 개발완료) - 프로덕트 기획, 디자인, 개발, 유지보수 
 
-* **Master Company**(iOS Developer) - 2017.3 ~ 현재
+* **Master Company**(iOS Developer) - 2017.3 ~ 2017.6
   * **공사마스터** - iOS앱 신규개발 및 유지보수
+  
+* **Cashwalk**(iOS Developer) - 2017.7 ~ 2018.2
+  * **Cashwalk** - iOS앱 신규기능 개발 및 유지보수
+  
+* **Freelancer**(iOS, BackEnd, 기획, ...) - 2018.2 ~ 2018.6
+  * **Snippet** - 개인적인 프로젝트 개발 
 
 # 기술경험
 **모바일 프로덕트에 수반되는 기획 및 디자인, iOS클라이언트, REST API 백앤드 개발과 클라우드 인프라의 설계 및 서비스 운영 경험**<br>
 
- * 4.5년 개발경력
- * Objective-C, Swift3.0을 사용한 iOS 네이티브 앱 개발경험
+ * 5.5년 개발경력
+ * Obj-C, Swift(3, 4)을 사용한 iOS 네이티브 앱 개발경험
  * Python, Django를 사용한 REST API의 모바일 백앤드 설계 및 개발, 운영경험
  * Django의 ORM을 이용한 PostgreSQL, Firebase(Baas)와 Realm(iOS localDB)의 Database경험
  * AWS의 인프라 스트럭쳐 구성 및 운영경험
@@ -70,8 +76,8 @@
 <details><summary>Dev experience</summary><p>
 
 * **iOS**
-  * Push Notification과 Core Location등의 Internal API 사용
-  * Facebook, Kakaotalk등의 소셜 미디어 서비스 연동
+  * Push Notification과 CoreLocation등의 Internal API 사용
+  * Facebook, Kakaotalk등의 소셜 미디어 서비스 연동개발
   * MVC, Singleton등의 디자인 패턴적용
   * 다국어(Localization)지원설정
   * Https(SSL Pinning)설정
