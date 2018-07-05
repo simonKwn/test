@@ -46,7 +46,7 @@
  
  * **Backend(REST API)** - `Python` `Django` `DjangoRestFramework` `Celery` `RabbitMQ` `flower` `...`
  
- * **Database** - `PostgreSQL(+ Postgis)` `Firebase(BaaS, NoSQL)` `Realm(iOS localDB)` `...`
+ * **Database** - `PostgreSQL(+ Postgis)` `Firebase(BaaS, NoSQL)` `Realm(iOS localDB)`
  
  * **Infra(AWS)** - `Route53` `EC2` `RDS` `S3` `CloudFront` `SES` `SNS` `CloudWatch` `IAM` `...`
  
