@@ -73,8 +73,9 @@
    * MapView 및 CustomMKAnnotation 사용
    * Kakao, Facebook 로그인 API 및 Naver Blog Api 사용
    * Kingfisher, Crashlystics등 20여개 오픈소스 라이브러리 사용   
- * **BackEnd & Infra**  
-  
+ * **BackEnd & Infra**
+   * Django & DRF를 이용한 JSON REST API와 AWS의 클라우드 환경에서의 서버 인프라, Ansible을 이용한 배포
+  
 </p></details><br>
 
 <p><img src="https://i.imgur.com/qYIKfH0.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
@@ -87,17 +88,16 @@
 <details><summary>개발상세</summary><p>
   
  * **iOS**
-    * 기존 소스 리펙토링
-    * 당첨현황 Flip 모듈 개발
-    * Facebook, iOS Contact API 사용하여 SNS 피쳐개발
+    * 기존 소스 리펙토링 진행과 유지보수
+    * 당첨현황 Flip UI 모듈 개발
+    * Facebook, iOS Contact API 사용한 SNS 피쳐개발
     * 캐시워치 (스마트밴드) SDK를 사용한 앱과 디바이스의 페어링 및 걸음수, 심박수, 수면 데이터등 각종 연동개발
-    * 캐시워치 각 데이터 저장을 위한 로컬DB Realm을 사용하여 개발 
-    * 캐시워치 각 그래프 UI 개발
-    * iOS 건강(Health) API를 사용하여 일, 주, 월 간 데이터 개발 (Read)
-    * 신규 및 리뉴얼 기능, 네트워크 통신 및 로컬 데이터베이스등의 각종기능 개발
+    * 캐시워치 각 데이터 저장을 위한 로컬DB Realm을 사용하여 개발 및 해당 그래프 UI 개발
+    * iOS 건강(Health) API를 사용하여 일, 주, 월 간 데이터 읽기개발
+    * 신규기능 및 앱 리뉴얼, 네트워크 통신 및 로컬 데이터베이스등의 각종기능 개발
  * **etc**
     * Gitflow(terminal) 개발방법으로 동료개발자와 협업
-    * Jira & Confluence을 활용한 Scrum 개발 프로세스로 업무진행
+    * Jira & Confluence을 활용한 Scrum 개발 프로세스의 업무진행
   
 </p></details><br>
 
