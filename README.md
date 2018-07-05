@@ -17,7 +17,7 @@
 # 업무이력
 
 * **개인개발**(iOS, BackEnd, 기획, ...) - 2018.2 ~ 2018.6
-  * **Snippet** - 개인적인 프로젝트의 iOS, BackEnd, 기획 및 UI
+  * **Snippet** - iOS, BackEnd, 기획, UI, UX
   
 * **Cashwalk**(iOS Developer) - 2017.7 ~ 2018.2
   * **Cashwalk** - iOS앱 신규기능 개발 및 유지보수  
