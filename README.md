@@ -92,8 +92,8 @@
     * 당첨현황 Flip UI 모듈 개발
     * Facebook, iOS Contact API 사용한 SNS 피쳐개발
     * 캐시워치 (스마트밴드) SDK를 사용한 앱과 디바이스의 페어링 및 걸음수, 심박수, 수면 데이터등 각종 연동개발
-    * 캐시워치 각 데이터 저장을 위한 로컬DB Realm을 사용하여 개발 및 해당 그래프 UI 개발
-    * iOS 건강(Health) API를 사용하여 일, 주, 월 간 데이터 읽기개발
+    * 캐시워치 각 데이터 저장을 위한 로컬DB(Realm), 해당 그래프 UI 개발
+    * iOS 건강(Health) API를 사용하여 daily, weekly, monthly 데이터 읽기개발
     * 신규기능 및 앱 리뉴얼, 네트워크 통신 및 로컬 데이터베이스등의 각종기능 개발
  * **etc**
     * Gitflow(terminal) 개발방법으로 동료개발자와 협업
@@ -111,7 +111,6 @@
 <details><summary>개발상세</summary><p>
 
 * **iOS**
-  * MVC 디자인 패턴 사용
   * 최근 통화 목록 기능을 위한 Realm 로컬DB사용 
   * Firebase Notification, Firebase Analytics 연동
   * Realm, Alamofire, SwiftyJSON, Toucan등 12여개 오픈소스 사용
