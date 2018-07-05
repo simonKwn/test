@@ -239,10 +239,10 @@
 <details><summary>Dev experience</summary><p>
   
  * **iOS(Client)**
-  * MVC 디자인 패턴 사용
-  * Realm 로컬DB사용 
-  * Firebase Notification, Firebase Analytics 연동
-  * Realm, Alamofire, SwiftyJSON, Toucan등 12여개 오픈소스 사용
+    * MVC 디자인 패턴 사용
+    * Realm 로컬DB사용 
+    * Firebase Notification, Firebase Analytics 연동
+    * Realm, Alamofire, SwiftyJSON, Toucan등 12여개 오픈소스 사용
   
 </p></details><br>
 
