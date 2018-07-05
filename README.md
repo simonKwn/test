@@ -33,7 +33,6 @@
 
 # 기술경험
 **모바일 프로덕트에 수반되는 기획 및 디자인, iOS 클라이언트, REST API 백앤드 개발과 클라우드 인프라의 설계 및 서비스 운영경험**<br>
-
  * 5년 개발경력
  * Obj-C, Swift(3, 4)을 사용한 iOS 네이티브 앱 개발경험
  * Python, Django를 사용한 REST API의 모바일 백앤드 설계 및 개발, 운영경험
@@ -65,16 +64,16 @@
 `1인개발` `Swift 4.0` `iOS 10.0+` `Instruments` `Cocoapods` `MVC` `Cocoapods` `Django` `DjangoRestFramework` `Ansible` `EC2` `RDS` `ELB` `ROUTE53` `CloudFront` `S3` `...`
 <p><a href="https://itunes.apple.com/kr/app/%EC%8A%A4%EB%8B%99%ED%95%8F/id1401497542?mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
 
-<details><summary>Dev experience</summary><p>
+<details><summary>개발상세</summary><p>
   
- * **iOS(Client)**
+ * **iOS**
    * Alamofire, Moya (Network Abstaction Library) 사용
    * Swift 4의 JSONDecodable사용한 JSON Parsing 
    * iOS 11.0에 추가된 LargeTitle UI 사용
    * MapView 및 CustomMKAnnotation 사용
    * Kakao, Facebook 로그인 API 및 Naver Blog Api 사용
    * Kingfisher, Crashlystics등 20여개 오픈소스 라이브러리 사용   
- * **Back-End**  
+ * **BackEnd & Infra**  
   
 </p></details><br>
 
@@ -85,9 +84,9 @@
 `Swift 3.0` `iOS 9.0+` `Cocoapods` `Realm` `RealmBrowser` `Instruments` `MVC` `Fabric`
 <p><a href="https://itunes.apple.com/kr/app/%EC%BA%90%EC%8B%9C%EC%9B%8C%ED%81%AC-%EB%8F%88-%EB%B2%84%EB%8A%94-%EB%A7%8C%EB%B3%B4%EA%B8%B0/id1220307907?mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
 
-<details><summary>Dev experience</summary><p>
+<details><summary>개발상세</summary><p>
   
- * **iOS(Client)**
+ * **iOS**
     * 기존 소스 리펙토링
     * 당첨현황 Flip 모듈 개발
     * Facebook, iOS Contact API 사용하여 SNS 피쳐개발
@@ -95,8 +94,11 @@
     * 캐시워치 각 데이터 저장을 위한 로컬DB Realm을 사용하여 개발 
     * 캐시워치 각 그래프 UI 개발
     * iOS 건강(Health) API를 사용하여 일, 주, 월 간 데이터 개발 (Read)
-    * 신규 및 리뉴얼 기능, 네트워크 통신 및 로컬 데이터베이스등의 각종기능 개발 
-  
+    * 신규 및 리뉴얼 기능, 네트워크 통신 및 로컬 데이터베이스등의 각종기능 개발
+ * **etc**
+    * Gitflow(terminal) 개발방법으로 동료개발자와 협업
+    * Jira & Confluence을 활용한 Scrum 개발 프로세스로 업무진행
+  
 </p></details><br>
 
 <p><img src="https://i.imgur.com/Ps3KNWk.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
@@ -106,9 +108,9 @@
 `Swift 3.0` `iOS 8.0+` `Cocoapods` `Realm` `MVC`
 <p><a href="https://itunes.apple.com/kr/app/공사마스터/id1172166428?mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
 
-<details><summary>Dev experience</summary><p>
+<details><summary>개발상세</summary><p>
 
-* **iOS(Client)**
+* **iOS**
   * Swift3.0 언어로 개발
   * Cocoapods을 이용한 오픈소스들의 dependancy 관리
   * MVC 디자인 패턴 사용
@@ -133,7 +135,7 @@
 * 관심있는 게시물에 코멘트를 남기거나 북마크를 할 수 있습니다.
  
 </p></details>
-<details><summary>Dev experience</summary><p>
+<details><summary>개발상세</summary><p>
 
 * **iOS**
   * Push Notification과 CoreLocation등의 Internal API 사용
@@ -198,9 +200,9 @@
 * 페이스북, 인스타그램등 실시간으로 소셜미디어로 사진을 공유 할 수 있습니다.
 </p</details>
 
-<details><summary>Dev experience</summary><p>
+<details><summary>개발상세</summary><p>
 
-* **iOS(Client)**
+* **iOS**
   * Singleton 디자인 패턴 적용
   * ContainerView 사용
   * FastttCamera, AFNetworking, MBCircularProgressBar등 10여개의 오픈소스 프로젝트 사용
@@ -235,9 +237,9 @@
 * 페이스북, 인스타그램등 실시간으로 소셜미디어로 사진을 공유 할 수 있습니다.
 </p></details>
 
-<details><summary>Dev experience</summary><p>
+<details><summary>개발상세</summary><p>
 
-* iOS (Client)
+* iOS
   * OpenCV, CoreImage, GPUImage등의 이미지 관련 라이브러리들을 사용하여 캐쥬얼한 이미지 프로세싱 개발
   * 비동기 이미지 프로세싱을 위한 GCD(Grand Central Dispatch) 병렬 큐 사용
   * Admob 연동
@@ -257,7 +259,7 @@
 </p></details>
 <details><summary>Dev experience</summary><p>
 
-* **iOS(Client)**
+* **iOS**
   * NSLayoutAnchor 사용
   
 * **Back-End**
