@@ -116,7 +116,7 @@
 - <a href="http://ec2-52-196-10-254.ap-northeast-1.compute.amazonaws.com/docs" target="_self">**REST API Documentation**</a>  
 - **Demo**
         <p><a href="https://player.vimeo.com/video/205604049"><img src="http://i.imgur.com/ufglkjr.png" title="source: imgur.com" width="250"/></a></p>
-  <details><summary>- **See more**</summary>
+<details><summary>See more</summary><p>        
   <div><br>
     <p><img src="http://i.imgur.com/TNTVmT0.png" title="source: imgur.com" title="source: imgur.com" /></p>
     <p><img src="http://i.imgur.com/4EzQLx8.png" title="source: imgur.com" title="source: imgur.com" /></p>
@@ -125,7 +125,7 @@
     <p><img src="http://i.imgur.com/KfIioXW.png" title="source: imgur.com" title="source: imgur.com" /></p>
     <p><img src="http://i.imgur.com/FFHF0gb.png" title="source: imgur.com" title="source: imgur.com" /></p>
   <p></p>
-</div></details>
+</div></p></details>
 <p><img src="http://i.imgur.com/yNxM290.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 
 ## Artifica (아티피카)<img src="http://i.imgur.com/nx1hUwX.png" title="source: imgur.com" width="100" height="100" align="right"/>
