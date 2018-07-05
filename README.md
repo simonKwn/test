@@ -35,7 +35,7 @@
 # 기술경험
 **모바일 프로덕트에 수반되는 기획 및 디자인, iOS 클라이언트, REST API 백앤드 개발과 클라우드 인프라의 설계 및 서비스 운영경험**<br>
 
- * 약 5년 개발경력
+ * 5년 개발경력
  * Obj-C, Swift(3, 4)을 사용한 iOS 네이티브 앱 개발경험
  * Python, Django를 사용한 REST API의 모바일 백앤드 설계 및 개발, 운영경험
  * Django의 ORM을 이용한 PostgreSQL, Firebase(Baas)와 Realm(iOS localDB)의 Database경험
@@ -62,7 +62,7 @@
 # Products 
 
 ## Circleboard (서클보드)  <img src="http://i.imgur.com/My95GiO.png" title="source: imgur.com" width="100" height="100" align="right"/>
-**Geofancing을 활용한 위치기반의 캠퍼스에서 이용하는 실시간 게시판 서비스(LBSNS)**<br><br>
+**Geofancing을 활용한 캠퍼스에서 이용하는 위치기반의 실시간 게시판 서비스(LBSNS)**<br><br>
 `1인개발` `서비스종료` `Obj-C` `iOS 8.0+` `Cocoapods` `Source Code` `MVC` `GoogleAnalytics` `DjangoFramework(+GeoDjango)` `Django Framework` `DjangoRestFramework` `Celery` `flower` `Swagger` `Git` `BitBucket` `AWS SDK(boto)` `Fabric` `Ansible` `...`
  
 <details><summary>Features</summary><p>
@@ -116,7 +116,7 @@
 - <a href="http://ec2-52-196-10-254.ap-northeast-1.compute.amazonaws.com/docs" target="_self">**REST API Documentation**</a>  
 - **Demo**
         <p><a href="https://player.vimeo.com/video/205604049"><img src="http://i.imgur.com/ufglkjr.png" title="source: imgur.com" width="250"/></a></p>
-  <details><summary>`See more`</summary>
+  <details><summary>- **See more**</summary>
   <div><br>
     <p><img src="http://i.imgur.com/TNTVmT0.png" title="source: imgur.com" title="source: imgur.com" /></p>
     <p><img src="http://i.imgur.com/4EzQLx8.png" title="source: imgur.com" title="source: imgur.com" /></p>
