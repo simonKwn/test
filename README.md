@@ -37,9 +37,9 @@
  
 # Tech Stack
 
- * **iOS(Client)** - Objective-C, Swift3.0, Cocoapods
+ * **iOS(Client)** - Objective-C, Swift(3, 4), Cocoapods, Instruments, Cocoapods, ...
  
- * **Backend(REST API)** - Python / Django Framework(Django-rest-framework), Celery, RabbitMQ, flower
+ * **Backend(REST API)** - Python / Django Framework(Django-rest-framework), Celery, RabbitMQ, flower, ...
  
  * **Database** - PostgreSQL(+ Postgis, RDBMS), Firebase(BaaS, NoSQL), Realm(iOS localDB)
  
@@ -47,17 +47,17 @@
  
  * **DevOps** - Fabric, Ansible
  
- * **Etc** - Git, BitBucket, Markdown, Google Analystics, Firebase Analystics, Postman, Slack...
+ * **Etc** - Git, BitBucket, Markdown, Google Analystics, Firebase Analystics, Postman, Slack, Jira, Confluence, Fabric, ...
  
- * **Design** - Sketch3, Illustrator, Photoshop
+ * **Design** - Sketch3
 
 # Portfolio
 본인이 프로덕트 기획, 디자인, 클라이언트(iOS), REST API백앤드 및 AWS인프라를 담당하여 개발을 경험했던 네이티브 어플리케이션들입니다.(1인개발)
 
 ## Circleboard (서클보드)  <img src="http://i.imgur.com/My95GiO.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **Geofancing을 활용한 위치기반의 캠퍼스에서 이용하는 실시간 게시판 서비스(LBSNS)**<br><br>
-`iPhone` `Objective-C` `iOS 8.0+` `Cocoapods` `서비스종료` `Source Code` 
-
+`서비스종료` `iPhone` `Obj-C` `iOS 8.0+` `Cocoapods` `Source Code` `MVC` `GoogleAnalytics` `DjangoFramework(+GeoDjango)` `Django Framework` `DjangoRestFramework` `Celery` `flower` `Swagger` `Git` `BitBucket` `AWS SDK(boto)` `Fabric` `Ansible` `...`
+ 
 <details><summary>Features</summary><p>
 
 * 학교별 이메일 인증을 통해 소속 학교에 기반한 개인화 된 개별 커뮤니티 제공됩니다.
@@ -70,14 +70,11 @@
 <details><summary>Dev experience</summary><p>
 
 * **iOS**
-  * Objective-C 언어로 개발
-  * Cocoapods을 이용하여 오픈소스들의 dependancy 관리
   * Push Notification과 Core Location등의 Internal API 사용
   * Facebook, Kakaotalk등의 소셜 미디어 서비스 연동
   * MVC, Singleton등의 디자인 패턴적용
-  * 다국어(Localization) 지원설정
-  * Https(SSL Pinning) 설정
-  * 분석 및 통계를 위해 Google Analytics 설정
+  * 다국어(Localization)지원설정
+  * Https(SSL Pinning)설정
   * AFNetworking, SDWebImage, Charts, SlackTextViewController등 20여개의 오픈소스 사용
   
 * **Backend**
@@ -126,7 +123,7 @@
 
 ## Artifica (아티피카)<img src="http://i.imgur.com/nx1hUwX.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **Deep Learning(convolutional neural network)을 이용한 아티스틱 필터 이미지 프로세싱 앱**<br><br>
-`iPhone` `Objective-C` `iOS 8.0+` `Cocoapods` `서비스종료` `Source Code`
+`서비스종료` `iPhone` `Obj-C` `iOS 8.0+` `Cocoapods` `Source Code`
 
 <details><summary>Features</summary><p>
 
@@ -138,8 +135,6 @@
 <details><summary>Dev experience</summary><p>
 
 * **iOS(Client)**
-  * Objective-C 언어로 개발
-  * Cocoapods을 이용한 오픈소스들의 dependancy 관리
   * Singleton 디자인 패턴 적용
   * ContainerView 사용
   * FastttCamera, AFNetworking, MBCircularProgressBar등 10여개의 오픈소스 프로젝트 사용
@@ -164,7 +159,7 @@
 
 ## Slushy (슬러쉬) <img src="http://i.imgur.com/M3Yx4Ze.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **iOS 로컬 이미지 프로세싱을 사용한 색상 및 스타일 필터 카메라 앱**<br><br>
-`iPhone` `Objective-C` `iOS 8.0+` `Cocoapods`
+`서비스종료` `iPhone` `Obj-C` `iOS 8.0+` `Cocoapods`
 <p><a href="https://itunes.apple.com/us/app/slushy-make-your-photos-coloful/id1173315815?l=ko&ls=1&mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
 
 <details><summary>Features</summary><p>
@@ -178,8 +173,6 @@
 <details><summary>Dev experience</summary><p>
 
 * iOS (Client)
-  * Objective-C 언어로 개발
-  * Cocoapods을 이용한 오픈소스들의 dependancy 관리
   * OpenCV, CoreImage, GPUImage등의 이미지 관련 라이브러리들을 사용하여 캐쥬얼한 이미지 프로세싱 개발
   * 비동기 이미지 프로세싱을 위한 GCD(Grand Central Dispatch) 병렬 큐 사용
   * Admob 연동
@@ -192,7 +185,7 @@
 
 ## Chat with Firebase<img src="http://i.imgur.com/NIKhkJ3.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **구글의 새로운 백앤드 서비스인 Firebase(Baas)와 Swift의 학습경험을 위해 개발한 채팅앱**<br><br>
-`iPhone` `Swift 3.0` `iOS 9.0+` `Cocoapods` `Source Code` `스토어 미출시` 
+`스토어 미출시` `iPhone` `Swift 3.0` `iOS 9.0+` `Cocoapods` `Source Code` 
 
 <details><summary>Features</summary><p>
 
@@ -213,7 +206,7 @@
 
 ## 04마스터<img src="http://i.imgur.com/Fc2zLEq.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **전국 중장비 임대/렌탈 매칭용 모바일 전화번호부 앱**<br><br>
-`iPhone` `Swift 3.0` `iOS 8.0+` `Cocoapods` 
+`iPhone` `Swift 3.0` `iOS 8.0+` `Cocoapods` `Realm` `MVC`
 <p><a href="https://itunes.apple.com/kr/app/공사마스터/id1172166428?mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
 
 <details><summary>Dev experience</summary><p>
