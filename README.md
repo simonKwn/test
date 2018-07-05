@@ -258,7 +258,7 @@
   
  * **iOS(Client)**
    * Alamofire, Moya (Network Abstaction Library) 사용
-   * Swift 4의 JSONDecodable & Decoable 을 이용한 JSON Parsing 사용
+   * Swift 4의 JSONDecodable사용한 JSON Parsing 
    * iOS 11.0에 추가된 LargeTitle UI 사용
    * MapView 및 CustomMKAnnotation 사용
    * Kakao, Facebook 로그인 API 및 Naver Blog Api 사용
