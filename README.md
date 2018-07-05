@@ -123,7 +123,7 @@
 
 ## Circleboard (서클보드)  <img src="http://i.imgur.com/My95GiO.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **Geofancing을 활용한 캠퍼스에서 이용하는 위치기반의 실시간 게시판 서비스(LBSNS)**<br><br>
-`1인개발` `서비스종료` `Obj-C` `iOS 8.0+` `Cocoapods` `Source Code` `MVC` `GoogleAnalytics` `DjangoFramework(+GeoDjango)` `Django Framework` `DjangoRestFramework` `Celery` `flower` `Swagger` `Git` `BitBucket` `AWS SDK(boto)` `Fabric` `Ansible` `...`
+`서비스종료` `1인개발` `Obj-C` `iOS 8.0+` `Cocoapods` `Source Code` `MVC` `GoogleAnalytics` `DjangoFramework(+GeoDjango)` `Django Framework` `DjangoRestFramework` `Celery` `flower` `Swagger` `Git` `BitBucket` `AWS SDK(boto)` `Fabric` `Ansible` `...`
  
 <details><summary>Features</summary><p>
 
@@ -190,7 +190,7 @@
 
 ## Artifica (아티피카)<img src="http://i.imgur.com/nx1hUwX.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **Deep Learning(convolutional neural network)을 이용한 아티스틱 필터 이미지 프로세싱 앱**<br><br>
-`1인개발` `서비스종료` `Obj-C` `iOS 8.0+` `Cocoapods` `Source Code` 
+`서비스종료` `1인개발` `Obj-C` `iOS 8.0+` `Cocoapods` `Source Code` 
 
 <details><summary>Features</summary><p>
 
@@ -225,7 +225,7 @@
 
 ## Slushy (슬러쉬) <img src="http://i.imgur.com/M3Yx4Ze.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **iOS 로컬 이미지 프로세싱을 사용한 색상 및 스타일 필터 카메라 앱**<br><br>
-`1인개발` `서비스종료` `Obj-C` `iOS 8.0+` `Cocoapods`
+`서비스종료` `1인개발`  `Obj-C` `iOS 8.0+` `Cocoapods`
 <p><a href="https://itunes.apple.com/us/app/slushy-make-your-photos-coloful/id1173315815?l=ko&ls=1&mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
 
 <details><summary>Features</summary><p>
