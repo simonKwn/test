@@ -248,7 +248,7 @@
 <p><img src="http://i.imgur.com/3XkvCVZ.png" title="source: imgur.com" title="source: imgur.com" title="source: imgur.com" width="900" align="center"/></p>
 
 ## Chat with Firebase<img src="http://i.imgur.com/NIKhkJ3.png" title="source: imgur.com" width="100" height="100" align="right"/>
-**구글의 새로운 백앤드 서비스인 Firebase(Baas)와 Swift의 학습경험을 위해 개발한 채팅앱**<br><br>
+**구글의 새로운 백앤드 서비스인 Firebase(Baas, NOSQL)와 Swift의 학습경험을 위해 개발한 채팅앱**<br><br>
 `스토어 미출시` `Swift 3.0` `iOS 9.0+` `Cocoapods` `Source Code` 
 
 <details><summary>Features</summary><p>
