@@ -247,7 +247,7 @@
 </p></details><br>
 
 * **Product**
-<p><img src="http://i.imgur.com/Umk6mGj.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
+<p><img src="https://i.imgur.com/Ps3KNWk.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 
 ## Snippet<img src="https://i.imgur.com/UXmVGLq.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **만보기 리워드 앱**<br><br>
