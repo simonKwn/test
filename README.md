@@ -59,7 +59,67 @@
  
  * **Design** - `Sketch3`
  
-# Products 
+# Products
+
+## Snippet<img src="https://i.imgur.com/UXmVGLq.png" title="source: imgur.com" width="100" height="100" align="right"/>
+**만보기 리워드 앱**<br><br>
+`1인개발` `Swift 4.0` `iOS 10.0+` `Instruments` `Cocoapods` `MVC` `Cocoapods` `Django` `DjangoRestFramework` `Ansible` `EC2` `RDS` `ELB` `ROUTE53` `CloudFront` `S3` `...`
+<p><a href="https://itunes.apple.com/kr/app/%EC%8A%A4%EB%8B%99%ED%95%8F/id1401497542?mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
+
+<details><summary>Dev experience</summary><p>
+  
+ * **iOS(Client)**
+   * Alamofire, Moya (Network Abstaction Library) 사용
+   * Swift 4의 JSONDecodable사용한 JSON Parsing 
+   * iOS 11.0에 추가된 LargeTitle UI 사용
+   * MapView 및 CustomMKAnnotation 사용
+   * Kakao, Facebook 로그인 API 및 Naver Blog Api 사용
+   * Kingfisher, Crashlystics등 20여개 오픈소스 라이브러리 사용   
+ * **Back-End**  
+  
+</p></details><br>
+
+<p><img src="https://i.imgur.com/qYIKfH0.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
+
+## CASHWALK<img src="https://i.imgur.com/qn2ZDNN.png" title="source: imgur.com" width="100" height="100" align="right"/>
+**만보기 리워드 앱**<br><br>
+`Swift 3.0` `iOS 9.0+` `Cocoapods` `Realm` `RealmBrowser` `Instruments` `MVC` `Fabric`
+<p><a href="https://itunes.apple.com/kr/app/%EC%BA%90%EC%8B%9C%EC%9B%8C%ED%81%AC-%EB%8F%88-%EB%B2%84%EB%8A%94-%EB%A7%8C%EB%B3%B4%EA%B8%B0/id1220307907?mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
+
+<details><summary>Dev experience</summary><p>
+  
+ * **iOS(Client)**
+    * 기존 소스 리펙토링
+    * 당첨현황 Flip 모듈 개발
+    * Facebook, iOS Contact API 사용하여 SNS 피쳐개발
+    * 캐시워치 (스마트밴드) SDK를 사용한 앱과 디바이스의 페어링 및 걸음수, 심박수, 수면 데이터등 각종 연동개발
+    * 캐시워치 각 데이터 저장을 위한 로컬DB Realm을 사용하여 개발 
+    * 캐시워치 각 그래프 UI 개발
+    * iOS 건강(Health) API를 사용하여 일, 주, 월 간 데이터 개발 (Read)
+    * 신규 및 리뉴얼 UI, 네트워크 통신 및 로컬 데이터베이스등의 각종기능 개발 
+  
+</p></details><br>
+
+<p><img src="https://i.imgur.com/Ps3KNWk.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
+
+## 04마스터<img src="http://i.imgur.com/Fc2zLEq.png" title="source: imgur.com" width="100" height="100" align="right"/>
+**전국 중장비 임대/렌탈 매칭용 모바일 전화번호부 앱**<br><br>
+`Swift 3.0` `iOS 8.0+` `Cocoapods` `Realm` `MVC`
+<p><a href="https://itunes.apple.com/kr/app/공사마스터/id1172166428?mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
+
+<details><summary>Dev experience</summary><p>
+
+* **iOS(Client)**
+  * Swift3.0 언어로 개발
+  * Cocoapods을 이용한 오픈소스들의 dependancy 관리
+  * MVC 디자인 패턴 사용
+  * 최근 통화 목록 기능을 위한 Realm 로컬DB사용 
+  * Firebase Notification, Firebase Analytics 연동
+  * Realm, Alamofire, SwiftyJSON, Toucan등 12여개 오픈소스 사용
+  
+</p></details><br>
+
+<p><img src="http://i.imgur.com/Umk6mGj.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 
 ## Circleboard (서클보드)  <img src="http://i.imgur.com/My95GiO.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **Geofancing을 활용한 캠퍼스에서 이용하는 위치기반의 실시간 게시판 서비스(LBSNS)**<br><br>
@@ -206,67 +266,6 @@
 </p></details>
 
 <p><img src="http://i.imgur.com/KHAQB0H.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
-
-
-## 04마스터<img src="http://i.imgur.com/Fc2zLEq.png" title="source: imgur.com" width="100" height="100" align="right"/>
-**전국 중장비 임대/렌탈 매칭용 모바일 전화번호부 앱**<br><br>
-`Swift 3.0` `iOS 8.0+` `Cocoapods` `Realm` `MVC`
-<p><a href="https://itunes.apple.com/kr/app/공사마스터/id1172166428?mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
-
-<details><summary>Dev experience</summary><p>
-
-* **iOS(Client)**
-  * Swift3.0 언어로 개발
-  * Cocoapods을 이용한 오픈소스들의 dependancy 관리
-  * MVC 디자인 패턴 사용
-  * 최근 통화 목록 기능을 위한 Realm 로컬DB사용 
-  * Firebase Notification, Firebase Analytics 연동
-  * Realm, Alamofire, SwiftyJSON, Toucan등 12여개 오픈소스 사용
-  
-</p></details><br>
-
-<p><img src="http://i.imgur.com/Umk6mGj.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
-
-## CASHWALK<img src="https://i.imgur.com/qn2ZDNN.png" title="source: imgur.com" width="100" height="100" align="right"/>
-**만보기 리워드 앱**<br><br>
-`Swift 3.0` `iOS 9.0+` `Cocoapods` `Realm` `RealmBrowser` `Instruments` `MVC` `Fabric`
-<p><a href="https://itunes.apple.com/kr/app/%EC%BA%90%EC%8B%9C%EC%9B%8C%ED%81%AC-%EB%8F%88-%EB%B2%84%EB%8A%94-%EB%A7%8C%EB%B3%B4%EA%B8%B0/id1220307907?mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
-
-<details><summary>Dev experience</summary><p>
-  
- * **iOS(Client)**
-    * 기존 소스 리펙토링
-    * 당첨현황 Flip 모듈 개발
-    * Facebook, iOS Contact API 사용하여 SNS 피쳐개발
-    * 캐시워치 (스마트밴드) SDK를 사용한 앱과 디바이스의 페어링 및 걸음수, 심박수, 수면 데이터등 각종 연동개발
-    * 캐시워치 각 데이터 저장을 위한 로컬DB Realm을 사용하여 개발 
-    * 캐시워치 각 그래프 UI 개발
-    * iOS 건강(Health) API를 사용하여 일, 주, 월 간 데이터 개발 (Read)
-    * 신규 및 리뉴얼 UI, 네트워크 통신 및 로컬 데이터베이스등의 각종기능 개발 
-  
-</p></details><br>
-
-<p><img src="https://i.imgur.com/Ps3KNWk.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
-
-## Snippet<img src="https://i.imgur.com/UXmVGLq.png" title="source: imgur.com" width="100" height="100" align="right"/>
-**만보기 리워드 앱**<br><br>
-`1인개발` `Swift 4.0` `iOS 10.0+` `Instruments` `Cocoapods` `MVC` `Cocoapods` `Django` `DjangoRestFramework` `Ansible` `EC2` `RDS` `ELB` `ROUTE53` `CloudFront` `S3` `...`
-<p><a href="https://itunes.apple.com/kr/app/%EC%8A%A4%EB%8B%99%ED%95%8F/id1401497542?mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
-
-<details><summary>Dev experience</summary><p>
-  
- * **iOS(Client)**
-   * Alamofire, Moya (Network Abstaction Library) 사용
-   * Swift 4의 JSONDecodable사용한 JSON Parsing 
-   * iOS 11.0에 추가된 LargeTitle UI 사용
-   * MapView 및 CustomMKAnnotation 사용
-   * Kakao, Facebook 로그인 API 및 Naver Blog Api 사용
-   * Kingfisher, Crashlystics등 20여개 오픈소스 라이브러리 사용   
- * **Back-End**  
-  
-</p></details><br>
-
-<p><img src="https://i.imgur.com/qYIKfH0.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 
 
 [back to top](#readme)
