@@ -111,8 +111,6 @@
 <details><summary>개발상세</summary><p>
 
 * **iOS**
-  * Swift3.0 언어로 개발
-  * Cocoapods을 이용한 오픈소스들의 dependancy 관리
   * MVC 디자인 패턴 사용
   * 최근 통화 목록 기능을 위한 Realm 로컬DB사용 
   * Firebase Notification, Firebase Analytics 연동
