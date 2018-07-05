@@ -260,7 +260,8 @@
   * Alamofire, Moya (Network Abstaction Library) 사용
   * JSONDecodable & Decoable 을 이용한 JSON Parsing 사용 
   * Kakao, Facebook 로그인 API 및 Naver Blog Api 사용  
-  * Kingfisher, Crashlytics등 20여개 오픈소스 사용
+  * Kingfisher, Crashlytics등 20여개 오픈소스 라이브러리 사용
+ * **Back-End**  
   
 </p></details><br>
 
