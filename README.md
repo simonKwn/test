@@ -16,25 +16,26 @@
 
 # 업무이력
 
-* **Circle Labs**(Founder) - 2013 ~ 2016<br>
-**안드로이드를 제외한 iOS 클라이언트, 백앤드, 클라우드 인프라등 서비스 개발과 운영에 관한 부분을 담당하였고 안드로이드 팀원과 협업하여 서비스를 운영**
-  * **Circleboard**(2014 ~ 2015.8: 개발완료, ~ 2016.07: 서비스 운영) - 프로덕트 기획, 디자인, 개발, 운영 
-  * **Artifica**(2016.06 ~ 2016.08:개발완료, ~ 2016.08: 서비스 운영) - 프로덕트 기획, 디자인, 개발, 운영 
-  * **Slushy**(2016.09~2016.10: 개발완료) - 프로덕트 기획, 디자인, 개발, 유지보수 
-
-* **Master Company**(iOS Developer) - 2017.3 ~ 2017.6
-  * **공사마스터** - iOS앱 신규개발 및 유지보수
-  
-* **Cashwalk**(iOS Developer) - 2017.7 ~ 2018.2
-  * **Cashwalk** - iOS앱 신규기능 개발 및 유지보수
-  
 * **Freelancer**(iOS, BackEnd, 기획, ...) - 2018.2 ~ 2018.6
   * **Snippet** - 개인적인 프로젝트 개발 
+  
+* **Cashwalk**(iOS Developer) - 2017.7 ~ 2018.2
+  * **Cashwalk** - iOS앱 신규기능 개발 및 유지보수  
+  
+* **Master Company**(iOS Developer) - 2017.3 ~ 2017.6
+  * **공사마스터** - iOS앱 신규개발 및 유지보수  
+  
+* **Circle Labs**(Founder) - 2013 ~ 2016<br>  
+
+**안드로이드를 제외한 iOS 클라이언트, 백앤드, 클라우드 인프라등 서비스 개발과 운영에 관한 부분을 담당하였고 안드로이드 팀원과 협업하여 서비스를 운영**
+  * **Circleboard**(2014 ~ 2016.07: 서비스 운영) - 프로덕트 기획, 디자인, 개발, 운영 
+  * **Artifica**(2016.06 ~ 2016.08: 개발완료) - 프로덕트 기획, 디자인, 개발, 운영 
+  * **Slushy**(2016.09 ~ 2016.10: 개발완료) - 프로덕트 기획, 디자인, 개발, 유지보수 
 
 # 기술경험
-**모바일 프로덕트에 수반되는 기획 및 디자인, iOS클라이언트, REST API 백앤드 개발과 클라우드 인프라의 설계 및 서비스 운영 경험**<br>
+**모바일 프로덕트에 수반되는 기획 및 디자인, iOS 클라이언트, REST API 백앤드 개발과 클라우드 인프라의 설계 및 서비스 운영경험**<br>
 
- * 5.5년 개발경력
+ * 약 5년 개발경력
  * Obj-C, Swift(3, 4)을 사용한 iOS 네이티브 앱 개발경험
  * Python, Django를 사용한 REST API의 모바일 백앤드 설계 및 개발, 운영경험
  * Django의 ORM을 이용한 PostgreSQL, Firebase(Baas)와 Realm(iOS localDB)의 Database경험
@@ -57,6 +58,8 @@
              `Fabric` `...`
  
  * **Design** - `Sketch3`
+ 
+# Products 
 
 # Portfolio
 본인이 프로덕트 기획, 디자인, 클라이언트(iOS), REST API백앤드 및 AWS인프라를 담당하여 개발을 경험했던 네이티브 어플리케이션들입니다.(1인개발)
@@ -116,7 +119,7 @@
 - <a href="http://ec2-52-196-10-254.ap-northeast-1.compute.amazonaws.com/docs" target="_self">**REST API Documentation**</a>  
 - **Demo**
         <p><a href="https://player.vimeo.com/video/205604049"><img src="http://i.imgur.com/ufglkjr.png" title="source: imgur.com" width="250"/></a></p>
-- **Product**<details><summary>`See more`</summary>
+  <details><summary>`See more`</summary>
   <div><br>
     <p><img src="http://i.imgur.com/TNTVmT0.png" title="source: imgur.com" title="source: imgur.com" /></p>
     <p><img src="http://i.imgur.com/4EzQLx8.png" title="source: imgur.com" title="source: imgur.com" /></p>
@@ -161,7 +164,6 @@
 - **Demo**
 <p><a href="https://player.vimeo.com/video/205661979"><img src="http://i.imgur.com/sA5NP97.png" title="source: imgur.com" width="250"/></a></p>
 
-- **Product**
 <p><img src="http://i.imgur.com/OQHpSjf.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 
 ## Slushy (슬러쉬) <img src="http://i.imgur.com/M3Yx4Ze.png" title="source: imgur.com" width="100" height="100" align="right"/>
@@ -187,7 +189,6 @@
   * GPUImage, FastttCamera, OpenCV,등 12여개의 오픈소스 프로젝트 사용
 </p></details>
 
-- **Product**
 <p><img src="http://i.imgur.com/3XkvCVZ.png" title="source: imgur.com" title="source: imgur.com" title="source: imgur.com" width="900" align="center"/></p>
 
 ## Chat with Firebase<img src="http://i.imgur.com/NIKhkJ3.png" title="source: imgur.com" width="100" height="100" align="right"/>
@@ -207,7 +208,6 @@
   * Firebase의 Authentication, Database, Storage 사용
 </p></details>
 
-* **Product**
 <p><img src="http://i.imgur.com/KHAQB0H.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 
 
@@ -228,7 +228,6 @@
   
 </p></details><br>
 
-* **Product**
 <p><img src="http://i.imgur.com/Umk6mGj.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 
 ## CASHWALK<img src="https://i.imgur.com/qn2ZDNN.png" title="source: imgur.com" width="100" height="100" align="right"/>
@@ -250,7 +249,6 @@
   
 </p></details><br>
 
-* **Product**
 <p><img src="https://i.imgur.com/Ps3KNWk.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 
 ## Snippet<img src="https://i.imgur.com/UXmVGLq.png" title="source: imgur.com" width="100" height="100" align="right"/>
@@ -271,7 +269,6 @@
   
 </p></details><br>
 
-* **Product**
 <p><img src="https://i.imgur.com/qYIKfH0.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 
 
