@@ -40,11 +40,11 @@
  * AWS의 인프라 스트럭쳐 구성 및 운영경험
  * 그 외 모바일 프로덕트(iOS, Android) 기획(UI, UX등) 및 그에 수반되는 이미지 리소스작업등의 경험
  
-# Tech Stack
+# Tech skills
 
- * **iOS(Client)** - `Obj-C` `Swift(3, 4)` `Cocoapods` `Instruments` `Cocoapods` `...`
+ * **iOS(Client)** - `Obj-C` `Swift(3, 4)` `Cocoapods` `Carthage` `Instruments` `...`
  
- * **Backend(REST API)** - `Python` `Django` `DjangoRestFramework` `Celery` `RabbitMQ` `flower` `...`
+ * **Backend(REST API)** - `Python` `Django` `DjangoRestFramework` `Celery` `RabbitMQ` `...`
  
  * **Database** - `PostgreSQL(+ Postgis)` `Firebase(BaaS, NoSQL)` `Realm(iOS localDB)`
  
