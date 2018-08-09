@@ -16,7 +16,7 @@
 
 # 업무이력
 
-* **개인개발**(iOS, BackEnd, 기획, ...) - 2018.2 ~ 2018.6
+* **개인개발**(iOS, BackEnd, 기획, ...) - 2018.4 ~ 2018.6
   * **Snippet** - iOS, BackEnd, 기획, UI, UX
   
 * **Cashwalk**(iOS Developer) - 2017.7 ~ 2018.2
@@ -68,13 +68,13 @@
   
  * **iOS**
    * Alamofire, Moya (Network Abstaction Library) 사용
-   * Swift 4의 JSONDecodable사용한 JSON Parsing 
+   * Swift 4의 Decodable사용한 JSON Parsing 사용
    * iOS 11.0에 추가된 LargeTitle UI 사용
-   * MapView 및 CustomMKAnnotation 사용
-   * Kakao, Facebook 로그인 API 및 Naver Blog Api 사용
+   * MapView 및 CustomMKAnnotation 사용ㅈ
+   * Kakao, Facebook 로그인 및 Naver Blog Api 사용
    * Kingfisher, Crashlystics등 20여개 오픈소스 라이브러리 사용   
  * **BackEnd & Infra**
-   * Django & DRF를 이용한 JSON REST API와 AWS의 클라우드 환경에서의 서버 인프라, Ansible을 이용한 배포
+   * Django & DRF를 이용한 JSON REST API Backend와 AWS의 클라우드 환경에서의 서버 인프라, Ansible을 이용한 배포
   
 </p></details><br>
 
@@ -88,12 +88,13 @@
 <details><summary>개발상세</summary><p>
   
  * **iOS**
-    * 기존 소스 리펙토링 진행과 유지보수
+    * 기존 소스 리펙토링과 신규개발, 유지보수 업무진행
+    * 기존 프로젝트 소스의 이슈해결(Fabric의 Crashlystic지표 향상)    
     * 당첨현황 Flip UI 모듈 개발
-    * Facebook, iOS Contact API 사용한 SNS 피쳐개발
-    * 캐시워치 (스마트밴드) SDK를 사용한 앱과 디바이스의 페어링 및 걸음수, 심박수, 수면 데이터등 각종 연동개발
-    * iOS 건강(Health) API를 사용하여 daily, weekly, monthly 데이터 읽기개발    
-    * Motion & Fitness API 사용하여 걸음수관련 개발    
+    * Facebook, Contact API(iOS) 사용한 소셜네트워크 피쳐개발
+    * 캐시워치(스마트밴드) SDK를 사용한 앱과 디바이스의 페어링 및 걸음수, 심박수, 수면 데이터등 각종 연동개발
+    * iOS의 건강(Health) API를 사용하여 daily, weekly, monthly 데이터연동(Read) 개발
+    * Motion & Fitness API 사용하여 걸음수관련 개발
     * 캐시워치 각 데이터 저장을 위한 로컬DB(Realm), 해당 그래프 UI 개발
     * 신규기능 및 앱 리뉴얼, 네트워크 통신 및 로컬 데이터베이스등의 각종기능 개발
  * **etc**
