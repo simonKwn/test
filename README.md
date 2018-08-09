@@ -16,11 +16,11 @@
 
 # 업무이력
 
-* **개인개발**(iOS, BackEnd, 기획, ...) - 2018.4 ~ 2018.6
+* **개인개발** - 2018.4 ~ 2018.6
   * **Snippet** - iOS, BackEnd, 기획, UI, UX
   
 * **Cashwalk**(iOS Developer) - 2017.7 ~ 2018.2
-  * **Cashwalk** - iOS앱 신규기능 개발 및 유지보수  
+  * **Cashwalk** - iOS앱 신규기능 개발 및 유지보수
   
 * **Master Company**(iOS Developer) - 2017.3 ~ 2017.6
   * **공사마스터** - iOS앱 신규개발 및 유지보수  
