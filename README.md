@@ -59,13 +59,15 @@
  
 # Products
 
-## Snippet<img src="https://i.imgur.com/UXmVGLq.png" title="source: imgur.com" width="100" height="100" align="right"/>
-** 인스타그램의 핫 플레이스 상점정보 네비게이션 앱**<br><br>
+>## Snippet<img src="https://i.imgur.com/UXmVGLq.png" title="source: imgur.com" width="100" height="100" align="right"/>
+**인스타그램의 핫 플레이스 상점정보 네비게이션 앱**<br><br>
 `1인개발` `Swift 4.0` `iOS 10.0+` `Instruments` `Cocoapods` `MVC` `Cocoapods` `Django` `DjangoRestFramework` `Ansible` `EC2` `RDS` `ELB` `ROUTE53` `CloudFront` `S3` `...`
 <p><a href="https://itunes.apple.com/kr/app/%EC%8A%A4%EB%8B%99%ED%95%8F/id1401497542?mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
 
 <details><summary>개발상세</summary><p>
   
+ * **Role**
+	* 1인개발로써 기획, UI, UX, iOS, Backend, 인프라등을 담당
  * **iOS**
    * Alamofire, Moya(Network Abstaction Library) 사용
    * Decodable JSON Parsing 사용
