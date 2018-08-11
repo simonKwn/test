@@ -9,36 +9,36 @@
 * 언어: 한국어, 일본어, 영어(영문 도큐멘테이션을 읽고 기술 이용가능)
 
 # 자기소개
-  일본 유학중의 학업과정 중 본인의 가장 큰 관심분야는 스마트폰의 보급으로 인한 포스트PC로 대두되어 성장하는 IT분야 였습니다. 상경출신의 기획자 포지션보다는 실제 프로덕트 개발에 대한 흥미와 열정이 있어 한국으로 귀국하여 모바일 앱을 통한 창업을 경험하게 되었습니다.<br>
-  시작단계인 아이디어 기획부터 프로덕트 개발을 거쳐 서비스 운영까지 이어지는 전체적인 프로세스를 경험하면서 iOS 클라이언트 네이티브 앱과 백앤드의 서버개발 그리고 배포를 위한 클라우드 환경의 인프라까지 모바일 앱 프로덕트에 수반되는 전체 개발과정을 경험하고 기술들을 습득하였습니다.<br>
-  iOS 클라이언트의 경우 사용자와 직접 인터렉션하는 UI와 UX에 대한 고민을 통해 보다 나은 사용자 경험 제공을 위한 유저 친화적인 프로덕트 개발을 위해 노력하였고, 백앤드의 아키텍처는 복잡성을 배제하고 심플하게 유지할 수 있도록 충분한 레퍼런스가 제공되고 검증된 오픈소스들을 도입하여 시스템을 구성, 운영하기 위해 노력하였습니다.<br>
+  일본 유학중의 학업과정 중 본인의 가장 큰 관심분야는 스마트폰의 보급으로 인한 포스트PC로 대두되는 모바일 IT분야 였습니다. 상경출신의 기획자 또는 그 외 포지션보다는 실제 프로덕트 개발에 대한 흥미와 열정이 있어 한국으로 귀국하여 개발에 관한 내용을 습득후 모바일 앱을 통한 창업을 경험하게 되었습니다.<br>
+  시작단계인 아이디어 기획부터 프로덕트 개발을 거쳐 서비스 운영까지 이어지는 전체 사이클의 프로세스를 경험하면서 iOS 클라이언트 네이티브 앱과 백앤드의 서버개발 그리고 배포를 위한 클라우드 환경의 인프라까지 모바일 앱 프로덕트에 수반되는 전체 개발과정을 경험하고 기술들을 습득하였습니다.<br>
+  iOS 클라이언트의 경우 사용자와 직접 인터렉션하는 UI와 UX에 대한 고민을 통해 보다 나은 사용자 경험제공을 위한 유저 친화적인 프로덕트 개발을 위해 노력하였고, 백앤드의경우 복잡성을 배제하고 심플하게 유지할 수 있는 아키텍처와 충분한 레퍼런스가 제공되고 검증된 오픈소스들을 도입하여 시스템을 구성, 운영하기 위해 노력하였습니다.<br>
   모바일 프로덕트 기획, 디자인, 클라이언트 iOS앱과 서버 및 인프라등 모바일 프로덕트 개발에 수반되는 직접적 경험을 토대로 각 파트의 팀원들과 원활한 커뮤니케이션을 통한 협업이 가능하고 보다 나은 프로덕트 개발을 위한 팀원으로써 책임감을 갖고 팀워크에 기여할 수 있다고 생각합니다.<br>
 
 # 업무이력
 
 * **개인개발** - 2018.4 ~ 2018.6
-  * **Snippet** - iOS, BackEnd, 기획, UI, UX
+  * **Snippet** - 프로덕트 기획, UI, UX, iOS(Swift4)& BackEnd 개발
   
 * **Cashwalk**(iOS Developer) - 2017.7 ~ 2018.2
-  * **Cashwalk** - iOS앱 신규기능 개발 및 유지보수
+  * **Cashwalk** - iOS앱(Swift3) 신규기능 개발 및 유지보수
   
 * **Master Company**(iOS Developer) - 2017.3 ~ 2017.6
-  * **공사마스터** - iOS앱 신규개발 및 유지보수  
+  * **공사마스터** - iOS앱(Swift3) 재개발
   
-* **Circle Labs**(Founder) - 2013 ~ 2016<br>  
-  **안드로이드를 제외한 iOS 클라이언트, 백앤드, 클라우드 인프라등 서비스 개발과 운영에 관한 부분을 담당하였고 안드로이드 팀원과 협업하여 서비스를 운영**
-  * **Circleboard**(2014 ~ 2016.07) - 프로덕트 기획, 디자인, 개발, 운영 
-  * **Artifica**(2016.06 ~ 2016.08) - 프로덕트 기획, 디자인, 개발, 운영 
-  * **Slushy**(2016.09 ~ 2016.10) - 프로덕트 기획, 디자인, 개발, 유지보수 
+* **창업(Circle)** - 2013 ~ 2016
+  **iOS 클라이언트, 백앤드, 클라우드 인프라등 안드로이드를 제외한 서비스 개발과 운영에 관한 부분을 담당하였고 안드로이드 동료와 협업하여 서비스 운영**
+  * **Circleboard**(2014 ~ 2016.07) - 프로덕트 기획, UI, UX, 개발, 운영
+  * **Artifica**(2016.06 ~ 2016.09) - 프로덕트 기획, UI, UX, 개발, 운영 
+  * **Slushy**(2016.10 ~ 2016.11) - 프로덕트 기획, UI, UX, 개발, 유지보수
 
 # 기술경험
 **모바일 프로덕트에 수반되는 기획 및 디자인, iOS 클라이언트, REST API 백앤드 개발과 클라우드 인프라의 설계 및 서비스 운영경험**<br>
- * 5년 개발경력
+ * 약 4.5년 개발경력
  * Obj-C, Swift(3, 4)을 사용한 iOS 네이티브 앱 개발경험
- * Python, Django를 사용한 REST API의 모바일 백앤드 설계 및 개발, 운영경험
+ * Python, Django를 사용한 REST API 모바일 백앤드 설계 및 개발, 운영경험
  * Django의 ORM을 이용한 PostgreSQL, Firebase(Baas)와 Realm(iOS localDB)의 Database경험
  * AWS의 인프라 스트럭쳐 구성 및 운영경험
- * 그 외 모바일 프로덕트(iOS, Android) 기획(UI, UX등) 및 그에 수반되는 이미지 리소스작업등의 경험
+ * 그 외 모바일 프로덕트(iOS, Android) 기획(UI, UX등) 및 모바일 프로덕트에 수반되는 이미지 리소스 작업등의 경험
  
 # Tech skills
 
@@ -48,7 +48,7 @@
  
  * **Database** - `PostgreSQL(+ Postgis)` `Firebase(BaaS, NoSQL)` `Realm(iOS localDB)`
  
- * **Infra(AWS)** - `Route53` `EC2` `RDS` `S3` `CloudFront` `SES` `SNS` `CloudWatch` `IAM` `...`
+ * **Cloud Infra(AWS)** - `Route53` `EC2` `RDS` `S3` `CloudFront` `SES` `SNS` `CloudWatch` `IAM` `...`
  
  * **DevOps** - `Fabric` `Ansible`
  
@@ -60,21 +60,22 @@
 # Products
 
 ## Snippet<img src="https://i.imgur.com/UXmVGLq.png" title="source: imgur.com" width="100" height="100" align="right"/>
-**핫 플레이스들의 상점정보 네비게이션 앱**<br><br>
+** 인스타그램의 핫 플레이스 상점정보 네비게이션 앱**<br><br>
 `1인개발` `Swift 4.0` `iOS 10.0+` `Instruments` `Cocoapods` `MVC` `Cocoapods` `Django` `DjangoRestFramework` `Ansible` `EC2` `RDS` `ELB` `ROUTE53` `CloudFront` `S3` `...`
 <p><a href="https://itunes.apple.com/kr/app/%EC%8A%A4%EB%8B%99%ED%95%8F/id1401497542?mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
 
 <details><summary>개발상세</summary><p>
   
  * **iOS**
-   * Alamofire, Moya (Network Abstaction Library) 사용
-   * Swift 4의 Decodable사용한 JSON Parsing 사용
-   * iOS 11.0에 추가된 LargeTitle UI 사용
-   * MapView 및 CustomMKAnnotation 사용ㅈ
+   * Alamofire, Moya(Network Abstaction Library) 사용
+   * Decodable JSON Parsing 사용
+   * LargeTitle UI 사용
+   * MapView 및 CustomMKAnnotation 사용
    * Kakao, Facebook 로그인 및 Naver Blog Api 사용
-   * Kingfisher, Crashlystics등 20여개 오픈소스 라이브러리 사용   
+   * 내비게이션, 전화등 내부 API 사용
+   * Kingfisher등 20여개 오픈소스 라이브러리 사용
  * **BackEnd & Infra**
-   * Django & DRF를 이용한 JSON REST API Backend와 AWS의 클라우드 환경에서의 서버 인프라, Ansible을 이용한 배포
+   * Django & DRF를 이용한 REST API Backend와 AWS의 클라우드 환경에서의 서버 인프라, Ansible을 이용한 배포
   
 </p></details><br>
 
@@ -88,18 +89,18 @@
 <details><summary>개발상세</summary><p>
   
  * **iOS**
-    * 기존 소스 리펙토링과 신규개발, 유지보수 업무진행
-    * 기존 프로젝트 소스의 이슈해결(Fabric의 Crashlystic지표 향상)    
+    * 소스코드 일부 리펙토링과 버그 및 이슈해결, 유지보수 업무진행
     * 당첨현황 Flip UI 모듈 개발
-    * Facebook, Contact API(iOS) 사용한 소셜네트워크 피쳐개발
-    * 캐시워치(스마트밴드) SDK를 사용한 앱과 디바이스의 페어링 및 걸음수, 심박수, 수면 데이터등 각종 연동개발
-    * iOS의 건강(Health) API를 사용하여 daily, weekly, monthly 데이터연동(Read) 개발
-    * Motion & Fitness API 사용하여 걸음수관련 개발
-    * 캐시워치 각 데이터 저장을 위한 로컬DB(Realm), 해당 그래프 UI 개발
-    * 신규기능 및 앱 리뉴얼, 네트워크 통신 및 로컬 데이터베이스등의 각종기능 개발
+    * Facebook, Contact API를 사용한 SNS 피쳐개발
+    * Motion & Fitness API를 사용하여 걸음수 관련 피쳐 유지보수 및 신규개발
+    * iOS의 건강(Health) API를 사용한 daily, weekly, monthly 걸음수 쿼리(Read only)및 통계 그래프 UI 개발
+    * 캐시워치(스마트밴드) SDK를 사용한 앱과 디바이스의 페어링 및 걸음수, 심박수, 수면 데이터, 그 외 각종 동작연동 개발
+    * 캐시워치 각 데이터 저장을 위한 로컬DB(Realm) 개발
+    * SafeAreaLaouyout, CoreLocation등의 iOS 11 대응
+    * 그 외 신규기능 및 UI 리뉴얼, 서버통신, 로컬 데이터베이스등 각종기능 개발등
  * **etc**
-    * Gitflow(terminal) 개발방법으로 동료개발자와 협업
-    * Jira & Confluence을 활용한 Scrum 개발 프로세스의 업무진행
+    * Gitflow(with terminal) 개발방법으로 동료개발자와 협업
+    * Jira & Confluence을 활용한 Scrum방식의 업무프로세스 진행
   
 </p></details><br>
 
@@ -113,7 +114,7 @@
 <details><summary>개발상세</summary><p>
 
 * **iOS**
-  * 최근 통화 목록 기능을 위한 Realm 로컬DB사용 
+  * 최근 통화 목록 기능을 위한 로컬DB(Realm) 사용 
   * Firebase Notification, Firebase Analytics 연동
   * Realm, Alamofire, SwiftyJSON, Toucan등 12여개 오픈소스 사용
   
@@ -123,7 +124,7 @@
 
 ## Circleboard (서클보드)  <img src="http://i.imgur.com/My95GiO.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **Geofancing을 활용한 캠퍼스에서 이용하는 위치기반의 실시간 게시판 서비스(LBSNS)**<br><br>
-`서비스종료` `1인개발` `Obj-C` `iOS 8.0+` `Cocoapods` `Source Code` `MVC` `GoogleAnalytics` `DjangoFramework(+GeoDjango)` `Django Framework` `DjangoRestFramework` `Celery` `flower` `Swagger` `Git` `BitBucket` `AWS SDK(boto)` `Fabric` `Ansible` `...`
+`서비스종료` `Obj-C` `iOS 8.0+` `Cocoapods` `Source Code` `MVC` `GoogleAnalytics` `DjangoFramework(+GeoDjango)` `Django Framework` `DjangoRestFramework` `Celery` `flower` `Swagger` `Git` `BitBucket` `AWS SDK(boto)` `Fabric` `Ansible` `...`
  
 <details><summary>Features</summary><p>
 
@@ -153,8 +154,8 @@
   * 형상관리 도구로 Git과 BitBucket 이용
   * Django에서 AWS 인프라를 사용하기 위해 boto2.x SDK 사용
   * s3cmd를 이용하여 logrotate와 연동한 S3에 log 자동화 백업설정
-  * 특정 API의 캐쉬사용을 위해 Redis를 테스트해보았지만 실서버에는 적용 하지 않음
-  * virtualenv, virtualenvwrapper등 서비스를 위한 다수의 오픈소스 패키지 사용
+  * 특정 API의 캐쉬사용을 위해 Redis를 테스트(실서버 미적용)
+  * django-taggit, Acstream등 서비스의 기능을 위한 다수의 오픈소스 패키지 사용
 
 * **DevOps**
   * 원격배포를 위해 로컬에서 개발시에는 Fabric을 이용하였으나 프로덕션 서버 운영때부터 Ansible을 이용하여 지속적인 원격 통합배포
@@ -166,6 +167,7 @@
   * Geofencing 위한 SpatialDB를 위해 Postgis가 내장되어 있는 PostgreSQL용 RDS 사용
   * 비동기로 개별유저에게 발송되는 푸쉬노티피케이션을 위해 SNS 사용
   * 신규가입 유저의 액티베이션 및 패스워드 리셋 이메일 발송을 위해 SES 사용
+  * 프로덕션 환경과 동일한 구조의 테스트 서버 인프라 구축
 </p></details> 
 
 <details><summary>Infra architecture(AWS)</summary>
@@ -214,8 +216,8 @@
  
 * **Image Processing**
   * Deep Learning framework인 chainer로 implementation된 실시간 이미지 프로세싱 <a href="https://github.com/yusuketomoto/chainer-fast-neuralstyle" target="_self">**오픈소스**</a>사용
-  * CNN에 사용되는 오리지날 pretrained 모델을 만들기 위해 AWS의 g2.2xlarge(GPU Instance) spot instance 사용(모델당 3.5~4일 정도 시간소요)
-  * 최적의 아웃풋을 위해 테스트 된 파라미터들을 참조하고 개인적인 테스트 실행후 최적의 아웃풋 작업
+  * CNN에 사용되는 오리지날 pretrained 모델을 만들기 위해 AWS의 g2.2xlarge(GPU Instance) spot instance 사용(모델당 4.5일 시간소요)
+  * 최적의 아웃풋을 위해 테스트 된 파라미터들을 참조하고 최적의 아웃풋을 위해 테스트 진행
 </p></details>
 
 - **Demo**
@@ -239,7 +241,7 @@
 <details><summary>개발상세</summary><p>
 
 * iOS
-  * OpenCV, CoreImage, GPUImage등의 이미지 관련 라이브러리들을 사용하여 캐쥬얼한 이미지 프로세싱 개발
+  * CoreImage, GPUImage등의 이미지 관련 라이브러리들을 사용하여 캐쥬얼한 이미지 프로세싱 개발
   * 비동기 이미지 프로세싱을 위한 GCD(Grand Central Dispatch) 병렬 큐 사용
   * Admob 연동
   * ContainerView 사용
