@@ -26,7 +26,7 @@
   * **공사마스터** - iOS앱(Swift3) 재개발
   
 * **창업(Circle)** - 2013 ~ 2016
-  **iOS 클라이언트, 백앤드, 클라우드 인프라등 안드로이드를 제외한 서비스 개발과 운영에 관한 부분을 담당하였고 안드로이드 동료와 협업하여 서비스 운영**
+  * **iOS 클라이언트, 백앤드, 클라우드 인프라등 안드로이드를 제외한 서비스 개발과 운영에 관한 부분을 담당하였고 안드로이드 동료와 협업하여 서비스 운영** *
   * **Circleboard**(2014 ~ 2016.07) - 프로덕트 기획, UI, UX, 개발, 운영
   * **Artifica**(2016.06 ~ 2016.09) - 프로덕트 기획, UI, UX, 개발, 운영 
   * **Slushy**(2016.10 ~ 2016.11) - 프로덕트 기획, UI, UX, 개발, 유지보수
@@ -242,8 +242,6 @@
 * 페이스북, 인스타그램등 실시간으로 소셜미디어로 사진을 공유 할 수 있습니다.
 </p></details>
 
-<p><img src="http://i.imgur.com/KHAQB0H.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
-
 <details><summary>개발상세</summary><p>
 
 * iOS
@@ -255,8 +253,10 @@
 </p></details>
 
 ## Chat with Firebase<img src="http://i.imgur.com/NIKhkJ3.png" title="source: imgur.com" width="100" height="100" align="right"/>
-**구글의 새로운 백앤드 서비스인 Firebase(Baas, NOSQL)와 Swift의 학습경험을 위해 개발한 채팅앱**<br><br>
+**구글의 백앤드 서비스인 Firebase(Baas, NOSQL)와 Swift의 학습경험을 위한 채팅앱**<br><br>
 `스토어 미출시` `Swift 3.0` `iOS 9.0+` `Cocoapods` `Source Code` 
+
+<p><img src="http://i.imgur.com/KHAQB0H.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 
 <details><summary>Features</summary><p>
 
