@@ -182,10 +182,10 @@
 * **Infrastructure**
   * API의 DNS를 위해 Route53을 사용하고 부하분산을 위한 ELB에 적용
   * Ubuntu14.04 버전의 EC2 인스턴스(Tokyo 리전)에 어플리케이션 서버를 배포하고 CloudWatch 설정
-  * 유저로부터 포스팅되는 이미지등의 미디어 파일을 S3에 저장하고 CDN서비스인 CloundFront 사용
+  * 유저로부터 포스팅되는 이미지등의 미디어 파일을 S3에 저장하고 CDN서비스인 CloundFront를 통해 컨텐츠 이미지 배포 
   * Geofencing 위한 SpatialDB를 위해 Postgis가 내장되어 있는 PostgreSQL용 RDS 사용
   * 비동기로 개별유저에게 발송되는 푸쉬노티피케이션을 위해 SNS 사용
-  * 신규가입 유저의 액티베이션 및 패스워드 리셋 이메일 발송을 위해 SES 사용
+  * 신규가입유저의 액티베이션 및 패스워드 리셋 이메일 발송을 위해 SES 사용
   * 프로덕션 환경과 동일한 구조의 테스트 서버 인프라 구축
 </p></details> 
 
@@ -251,7 +251,7 @@
   * 비동기 이미지 프로세싱을 위한 GCD(Grand Central Dispatch) 병렬 큐 사용
   * Admob 연동
   * ContainerView 사용
-  * GPUImage, FastttCamera, OpenCV,등 12여개의 오픈소스 프로젝트 사용
+  * FastttCamera, OpenCV등 12여개의 오픈소스 프로젝트 사용
 </p></details>
 
 ## Chat with Firebase<img src="http://i.imgur.com/NIKhkJ3.png" title="source: imgur.com" width="100" height="100" align="right"/>
