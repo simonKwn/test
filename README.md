@@ -86,6 +86,7 @@
 **리워드형 만보기 및 헬스케어 서비스 앱**<br><br>
 `Swift 3.0` `iOS 9.0+` `Cocoapods` `Realm` `RealmBrowser` `Instruments` `MVC` `Fabric`
 <p><a href="https://itunes.apple.com/kr/app/%EC%BA%90%EC%8B%9C%EC%9B%8C%ED%81%AC-%EB%8F%88-%EB%B2%84%EB%8A%94-%EB%A7%8C%EB%B3%B4%EA%B8%B0/id1220307907?mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
+<p><img src="https://i.imgur.com/Ps3KNWk.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 
 <details><summary>개발상세</summary><p>
   
@@ -105,12 +106,11 @@
   
 </p></details><br>
 
-<p><img src="https://i.imgur.com/Ps3KNWk.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
-
 ## 04마스터<img src="http://i.imgur.com/Fc2zLEq.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **전국 중장비 임대/렌탈 매칭용 모바일 전화번호부 앱**<br><br>
 `Swift 3.0` `iOS 8.0+` `Cocoapods` `Realm` `MVC`
 <p><a href="https://itunes.apple.com/kr/app/공사마스터/id1172166428?mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
+<p><img src="http://i.imgur.com/Umk6mGj.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 
 <details><summary>개발상세</summary><p>
 
@@ -121,11 +121,24 @@
   
 </p></details><br>
 
-<p><img src="http://i.imgur.com/Umk6mGj.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
-
 ## Circleboard (서클보드)  <img src="http://i.imgur.com/My95GiO.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **Geofancing을 활용한 캠퍼스에서 이용하는 위치기반의 실시간 게시판 서비스(LBSNS)**<br><br>
 `서비스종료` `Obj-C` `iOS 8.0+` `Cocoapods` `Source Code` `MVC` `GoogleAnalytics` `DjangoFramework(+GeoDjango)` `Django Framework` `DjangoRestFramework` `Celery` `flower` `Swagger` `Git` `BitBucket` `AWS SDK(boto)` `Fabric` `Ansible` `...`
+
+<p><img src="http://i.imgur.com/yNxM290.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
+- <a href="http://ec2-52-193-115-232.ap-northeast-1.compute.amazonaws.com/docs" target="_self">**REST API Documentation**</a> 
+- **Demo**
+        <p><a href="https://player.vimeo.com/video/205604049"><img src="http://i.imgur.com/ufglkjr.png" title="source: imgur.com" width="250"/></a></p>
+<details><summary>See more</summary><p>        
+  <div><br>
+    <p><img src="http://i.imgur.com/TNTVmT0.png" title="source: imgur.com" title="source: imgur.com" /></p>
+    <p><img src="http://i.imgur.com/4EzQLx8.png" title="source: imgur.com" title="source: imgur.com" /></p>
+    <p><img src="http://i.imgur.com/QfqlQGi.png" title="source: imgur.com" title="source: imgur.com" /></p>
+    <p><img src="http://i.imgur.com/0jfdk5j.png" title="source: imgur.com" title="source: imgur.com" /></p>
+    <p><img src="http://i.imgur.com/KfIioXW.png" title="source: imgur.com" title="source: imgur.com" /></p>
+    <p><img src="http://i.imgur.com/FFHF0gb.png" title="source: imgur.com" title="source: imgur.com" /></p>
+  <p></p>
+</div></p></details>
  
 <details><summary>Features</summary><p>
 
@@ -176,24 +189,13 @@
 <img src="http://i.imgur.com/oJrkrdV.png" title="source: imgur.com" />
 </div></details>
 
-- <a href="http://ec2-52-193-115-232.ap-northeast-1.compute.amazonaws.com/docs" target="_self">**REST API Documentation**</a>  
-- **Demo**
-        <p><a href="https://player.vimeo.com/video/205604049"><img src="http://i.imgur.com/ufglkjr.png" title="source: imgur.com" width="250"/></a></p>
-<details><summary>See more</summary><p>        
-  <div><br>
-    <p><img src="http://i.imgur.com/TNTVmT0.png" title="source: imgur.com" title="source: imgur.com" /></p>
-    <p><img src="http://i.imgur.com/4EzQLx8.png" title="source: imgur.com" title="source: imgur.com" /></p>
-    <p><img src="http://i.imgur.com/QfqlQGi.png" title="source: imgur.com" title="source: imgur.com" /></p>
-    <p><img src="http://i.imgur.com/0jfdk5j.png" title="source: imgur.com" title="source: imgur.com" /></p>
-    <p><img src="http://i.imgur.com/KfIioXW.png" title="source: imgur.com" title="source: imgur.com" /></p>
-    <p><img src="http://i.imgur.com/FFHF0gb.png" title="source: imgur.com" title="source: imgur.com" /></p>
-  <p></p>
-</div></p></details>
-<p><img src="http://i.imgur.com/yNxM290.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
-
 ## Artifica (아티피카)<img src="http://i.imgur.com/nx1hUwX.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **Deep Learning(convolutional neural network)을 이용한 아티스틱 필터 이미지 프로세싱 앱**<br><br>
 `서비스종료` `1인개발` `Obj-C` `iOS 8.0+` `Cocoapods` `Source Code` 
+
+- **Demo**
+<p><a href="https://player.vimeo.com/video/205661979"><img src="http://i.imgur.com/sA5NP97.png" title="source: imgur.com" width="250"/></a></p>
+<p><img src="http://i.imgur.com/OQHpSjf.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 
 <details><summary>Features</summary><p>
 
@@ -221,10 +223,6 @@
   * 최적의 아웃풋을 위해 테스트 된 파라미터들을 참조하고 최적의 아웃풋을 위해 테스트 진행
 </p></details>
 
-- **Demo**
-<p><a href="https://player.vimeo.com/video/205661979"><img src="http://i.imgur.com/sA5NP97.png" title="source: imgur.com" width="250"/></a></p>
-
-<p><img src="http://i.imgur.com/OQHpSjf.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 
 ## Slushy (슬러쉬) <img src="http://i.imgur.com/M3Yx4Ze.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **iOS 로컬 이미지 프로세싱을 사용한 색상 및 스타일 필터 카메라 앱**<br><br>
@@ -232,12 +230,15 @@
 <p><a href="https://itunes.apple.com/us/app/slushy-make-your-photos-coloful/id1173315815?l=ko&ls=1&mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
 
 <details><summary>Features</summary><p>
+<p><img src="http://i.imgur.com/3XkvCVZ.png" title="source: imgur.com" title="source: imgur.com" title="source: imgur.com" width="900" align="center"/></p>
 
 * 7종류의 흑백필터가 제공됩니다.
 * 단일 색상부터 그래디언트까지 60여가지 다양한 컬러필터가 제공됩니다.
 * 필터의 적용강도를 조절 할 수 있습니다.
 * 페이스북, 인스타그램등 실시간으로 소셜미디어로 사진을 공유 할 수 있습니다.
 </p></details>
+
+<p><img src="http://i.imgur.com/KHAQB0H.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 
 <details><summary>개발상세</summary><p>
 
@@ -248,8 +249,6 @@
   * ContainerView 사용
   * GPUImage, FastttCamera, OpenCV,등 12여개의 오픈소스 프로젝트 사용
 </p></details>
-
-<p><img src="http://i.imgur.com/3XkvCVZ.png" title="source: imgur.com" title="source: imgur.com" title="source: imgur.com" width="900" align="center"/></p>
 
 ## Chat with Firebase<img src="http://i.imgur.com/NIKhkJ3.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **구글의 새로운 백앤드 서비스인 Firebase(Baas, NOSQL)와 Swift의 학습경험을 위해 개발한 채팅앱**<br><br>
@@ -267,8 +266,6 @@
 * **Back-End**
   * Firebase의 Authentication, Database, Storage 사용
 </p></details>
-
-<p><img src="http://i.imgur.com/KHAQB0H.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 
 
 [back to top](#readme)
