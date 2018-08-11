@@ -127,11 +127,6 @@
 
 <p><img src="http://i.imgur.com/yNxM290.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 
-- <a href="http://ec2-52-193-115-232.ap-northeast-1.compute.amazonaws.com/docs" target="_self">**REST API Documentation**</a>
-
-- **Demo**
-<p><a href="https://player.vimeo.com/video/205604049"><img src="http://i.imgur.com/ufglkjr.png" title="source: imgur.com" width="250"/></a></p>
-
 <details><summary>See more</summary><p>        
   <div><br>
     <p><img src="http://i.imgur.com/TNTVmT0.png" title="source: imgur.com" title="source: imgur.com" /></p>
@@ -142,6 +137,11 @@
     <p><img src="http://i.imgur.com/FFHF0gb.png" title="source: imgur.com" title="source: imgur.com" /></p>
   <p></p>
 </div></p></details>
+
+- **Demo**
+<p><a href="https://player.vimeo.com/video/205604049"><img src="http://i.imgur.com/ufglkjr.png" title="source: imgur.com" width="250"/></a></p>
+
+- <a href="http://ec2-52-193-115-232.ap-northeast-1.compute.amazonaws.com/docs" target="_self">**REST API Documentation**</a>
  
 <details><summary>Features</summary><p>
 
@@ -196,9 +196,9 @@
 **Deep Learning(convolutional neural network)을 이용한 아티스틱 필터 이미지 프로세싱 앱**<br><br>
 `서비스종료` `1인개발` `Obj-C` `iOS 8.0+` `Cocoapods` `Source Code` 
 
+<p><img src="http://i.imgur.com/OQHpSjf.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 - **Demo**
 <p><a href="https://player.vimeo.com/video/205661979"><img src="http://i.imgur.com/sA5NP97.png" title="source: imgur.com" width="250"/></a></p>
-<p><img src="http://i.imgur.com/OQHpSjf.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 
 <details><summary>Features</summary><p>
 
@@ -232,8 +232,9 @@
 `서비스종료` `1인개발`  `Obj-C` `iOS 8.0+` `Cocoapods`
 <p><a href="https://itunes.apple.com/us/app/slushy-make-your-photos-coloful/id1173315815?l=ko&ls=1&mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
 
-<details><summary>Features</summary><p>
 <p><img src="http://i.imgur.com/3XkvCVZ.png" title="source: imgur.com" title="source: imgur.com" title="source: imgur.com" width="900" align="center"/></p>
+
+<details><summary>Features</summary><p>
 
 * 7종류의 흑백필터가 제공됩니다.
 * 단일 색상부터 그래디언트까지 60여가지 다양한 컬러필터가 제공됩니다.
