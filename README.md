@@ -92,16 +92,18 @@
 
 <details><summary>개발상세</summary><p>
   
+* **Role**
+    * iOS 개발자  
  * **iOS**
-    * 소스코드 일부 리펙토링과 버그 및 이슈해결, 유지보수 업무진행
+    * 기존의 소스코드 일부 리펙토링과 버그 및 이슈해결, 유지보수 업무진행
     * 당첨현황 Flip UI 모듈 개발
     * Facebook, Contact API를 사용한 SNS 피쳐개발
     * Motion & Fitness API를 사용하여 걸음수 관련 피쳐 유지보수 및 신규개발
     * iOS의 건강(Health) API를 사용한 daily, weekly, monthly 걸음수 쿼리(Read only)및 통계 그래프 UI 개발
     * 캐시워치(스마트밴드) SDK를 사용한 앱과 디바이스의 페어링 및 걸음수, 심박수, 수면 데이터, 그 외 각종 동작연동 개발
-    * 캐시워치 각 데이터 저장을 위한 로컬DB(Realm) 개발
-    * SafeAreaLaouyout, CoreLocation등의 iOS 11 대응
-    * 그 외 신규기능 및 UI 리뉴얼, 서버통신, 로컬 데이터베이스등 각종기능 개발등
+    * 캐시워치 각 데이터 저장을 위한 로컬DB Realm 사용
+    * SafeArea, CoreLocation등의 iOS 11 대응
+    * 그 외 신규기능 및 UI 리뉴얼, 서버통신등의 각종기능 개발등
  * **etc**
     * Gitflow(with terminal) 개발방법으로 동료개발자와 협업
     * Jira & Confluence을 활용한 Scrum방식의 업무프로세스 진행
@@ -115,9 +117,13 @@
 <p><img src="http://i.imgur.com/Umk6mGj.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
 
 <details><summary>개발상세</summary><p>
-
+  
+* **Role**
+	* iOS 개발자  
 * **iOS**
-  * 최근 통화 목록 기능을 위한 로컬DB(Realm) 사용 
+  * 기존의 Obj-C 코드의 유지보수가 불가능으로 판단하여 Swift로 재작성
+  * 업체등록피쳐의 기존 뷰의 플로우 개선
+  * 최근 통화 목록 기능을 위한 로컬DB Realm 사용
   * Firebase Notification, Firebase Analytics 연동
   * Realm, Alamofire, SwiftyJSON, Toucan등 12여개 오픈소스 사용
   
