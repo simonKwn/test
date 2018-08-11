@@ -126,9 +126,12 @@
 `서비스종료` `Obj-C` `iOS 8.0+` `Cocoapods` `Source Code` `MVC` `GoogleAnalytics` `DjangoFramework(+GeoDjango)` `Django Framework` `DjangoRestFramework` `Celery` `flower` `Swagger` `Git` `BitBucket` `AWS SDK(boto)` `Fabric` `Ansible` `...`
 
 <p><img src="http://i.imgur.com/yNxM290.png" title="source: imgur.com" title="source: imgur.com" width="1000" align="center"/></p>
-- <a href="http://ec2-52-193-115-232.ap-northeast-1.compute.amazonaws.com/docs" target="_self">**REST API Documentation**</a> 
+
+- <a href="http://ec2-52-193-115-232.ap-northeast-1.compute.amazonaws.com/docs" target="_self">**REST API Documentation**</a>
+
 - **Demo**
-        <p><a href="https://player.vimeo.com/video/205604049"><img src="http://i.imgur.com/ufglkjr.png" title="source: imgur.com" width="250"/></a></p>
+<p><a href="https://player.vimeo.com/video/205604049"><img src="http://i.imgur.com/ufglkjr.png" title="source: imgur.com" width="250"/></a></p>
+
 <details><summary>See more</summary><p>        
   <div><br>
     <p><img src="http://i.imgur.com/TNTVmT0.png" title="source: imgur.com" title="source: imgur.com" /></p>
