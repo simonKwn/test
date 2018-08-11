@@ -178,7 +178,7 @@
   * Swagger를 이용해 API Documentation 작성
   * 형상관리 도구로 Git과 BitBucket 이용
   * Django에서 AWS 인프라를 사용하기 위해 boto2.x SDK 사용
-  * s3cmd를 이용하여 logrotate와 연동한 S3에 log 자동화 백업설정
+  * s3cmd를 이용하여 log rotate와 연동한 S3에 log 자동화 백업설정
   * 특정 API의 캐쉬사용을 위해 Redis를 테스트(실서버 미적용)
   * django-taggit, Acstream등 서비스의 기능을 위한 다수의 오픈소스 패키지 사용
 
