@@ -239,7 +239,6 @@
 ## Slushy (슬러쉬) <img src="http://i.imgur.com/M3Yx4Ze.png" title="source: imgur.com" width="100" height="100" align="right"/>
 **로컬 이미지 프로세싱을 사용한 색상 및 스타일 필터 카메라 앱**<br><br>
 `서비스종료` `1인개발`  `Obj-C` `iOS 8.0+` `Cocoapods`
-<p><a href="https://itunes.apple.com/us/app/slushy-make-your-photos-coloful/id1173315815?l=ko&ls=1&mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
 
 <p><img src="http://i.imgur.com/3XkvCVZ.png" title="source: imgur.com" title="source: imgur.com" title="source: imgur.com" width="900" align="center"/></p>
 
