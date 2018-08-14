@@ -237,7 +237,7 @@
 
 
 ## Slushy (슬러쉬) <img src="http://i.imgur.com/M3Yx4Ze.png" title="source: imgur.com" width="100" height="100" align="right"/>
-**iOS 로컬 이미지 프로세싱을 사용한 색상 및 스타일 필터 카메라 앱**<br><br>
+**로컬 이미지 프로세싱을 사용한 색상 및 스타일 필터 카메라 앱**<br><br>
 `서비스종료` `1인개발`  `Obj-C` `iOS 8.0+` `Cocoapods`
 <p><a href="https://itunes.apple.com/us/app/slushy-make-your-photos-coloful/id1173315815?l=ko&ls=1&mt=8" target="_blank"><img src="http://i.imgur.com/XYieOID.png" title="source: imgur.com" width=150/></a></p>
 
@@ -255,7 +255,7 @@
 
 * iOS
   * CoreImage, GPUImage등의 이미지 관련 라이브러리들을 사용하여 캐쥬얼한 이미지 프로세싱 개발
-  * 비동기 이미지 프로세싱을 위한 GCD(Grand Central Dispatch) 병렬 큐 사용
+  * GCD(Grand Central Dispatch)를 이용한 비동기 Multithread 이미지 프로세싱 처리
   * Admob 연동
   * ContainerView 사용
   * FastttCamera, OpenCV등 12여개의 오픈소스 프로젝트 사용
